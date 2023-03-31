@@ -1,0 +1,2 @@
+# data folder should not be pushed to git
+data/
