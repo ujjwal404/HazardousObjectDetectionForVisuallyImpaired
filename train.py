@@ -10,6 +10,7 @@ from yolov5.utils import google_utils
 import torch
 
 
+
 def train(data_yaml='data.yaml', weights='yolov5s.pt', batch_size=16, img_size=[640, 640], epochs=300, device='', cache_images=False, hyp='data/hyp.scratch.yaml', resume=False, nosave=False):
     # Initialize
     with open(data_yaml) as f:
