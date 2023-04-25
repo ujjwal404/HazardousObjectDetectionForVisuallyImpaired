@@ -1,4 +1,4 @@
-# Hazardous object detection for Visually Impaired People
+# Hazardous object detection for Visually Impaired People 👨‍🦯
 
 - Install all the dependencies using `pip install -r requirements.txt`
 - The `data` folder in root should contain `dataset` folder with raw images. You can run `preprocess.py` to create `processed` folder with preprocessed images like this.
